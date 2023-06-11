@@ -1,0 +1,22 @@
+{
+  "navigationBarTitleText": "加分中心",
+  "navigationBarRightButton": {
+    "hide": true
+  },
+  "usingComponents": {
+    "u-navbar": "../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "ksp-cropper": "../../uni_modules/ksp-cropper/components/ksp-cropper/ksp-cropper",
+    "u--image": "../../uni_modules/uview-plus/components/u--image/u--image",
+    "u--text": "../../uni_modules/uview-plus/components/u--text/u--text",
+    "u-gap": "../../uni_modules/uview-plus/components/u-gap/u-gap",
+    "u-button": "../../uni_modules/uview-plus/components/u-button/u-button",
+    "uni-drawer": "../../uni_modules/uni-drawer/components/uni-drawer/uni-drawer",
+    "u-notify": "../../uni_modules/uview-plus/components/u-notify/u-notify",
+    "uni-data-select": "../../uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "u-col": "../../uni_modules/uview-plus/components/u-col/u-col",
+    "u-row": "../../uni_modules/uview-plus/components/u-row/u-row",
+    "u--input": "../../uni_modules/uview-plus/components/u--input/u--input",
+    "qiun-data-charts": "../../uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "u-popup": "../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}
